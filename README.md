@@ -17,8 +17,8 @@ Functionalities:
 </ul>
 <li>StudentSW:</li>
 <ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Login and connect to server</li>
+<li>Browse contest and can enter in one of the contest</li>
+<li>Submit submission in 4 diffrent files including *.java, .c, .cpp and .txt</li>
+<li>Can get answer instant after submission whether submitted code is accepted or it is having what kind of error.</li>
 </ul>
